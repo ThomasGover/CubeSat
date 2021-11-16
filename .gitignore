@@ -1,0 +1,17 @@
+build
+src/library/obj
+src/library/lib
+src/library/doc
+
+# LaTeX build artifacts
+CubedOS.aux
+CubedOS.bbl
+CubedOS.blg
+CubedOS.log
+CubedOS.out
+CubedOS.pdf
+CubedOS.toc
+
+# Generated API packages
+src/modules/MXDR/*.ads
+src/modules/MXDR/*.adb
